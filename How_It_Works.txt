@@ -1,0 +1,69 @@
+**Maileed**
+
+**How It Works**
+
+
+1. Overview
+Maileed is an AI-powered personal email assistant designed to streamline your email management. By learning from your communication patterns and preferences, Maileed helps you organize, prioritize, and respond to emails more efficiently. It can also collaborate with other AI agents to handle complex tasks involving multiple actions or information sources.
+
+2. Initial Setup and Analysis
+When you first start using Maileed, it analyzes your email history to understand your communication style and habits. This analysis includes:
+
+Read Emails: Identifies the types of emails you prioritize.
+Responded Emails: Understands your reply patterns and frequent contacts.
+Unchecked Emails: Recognizes messages you consider less important.
+Composed Emails: Learns your writing style and common topics.
+After the analysis, Maileed generates a report with insights and proposes a customized operational logic. It also creates lists of important contacts, topics, and projects for your review and approval.
+
+3. Email Labeling and Action Prediction
+Maileed labels incoming emails based on their importance and predicts the appropriate action required:
+
+Reply
+Archive
+Notice
+Extract Information
+Forward
+Delete
+Ignore
+
+This intelligent assessment helps you focus on high-priority emails and reduces the time spent on manual sorting.
+
+4. Operating Memory Levels
+Maileed operates using three memory levels that are continuously refined:
+
+Strategy: Long-term planning based on your email patterns.
+Policy: Rules governing Maileed's behavior in managing emails.
+Conditions: Contextual triggers influencing how specific emails are handled.
+
+5. Distinctive Representatives (Reps)
+You can create specialized "Reps" within Maileed to handle specific communication tasks. For example, assign a Rep to manage inquiries about a particular project by providing it with relevant notes and data, allowing for accurate and informative responses without your direct input every time.
+
+With Maileed, you can grant access to both your local and cloud documents to create custom representatives capable of responding to specific emails based on document content. For example, you might allow Maileed to access your calendar and instruct it to respond to certain contacts, like colleagues, with availability information. Or, by providing access to PDF files detailing product specifications, you can set up a Rep to automatically respond to product inquiries by referencing those documents.
+6. Feedback Mechanisms for High Accuracy
+Maileed improves over time by incorporating feedback from you and your contacts.
+
+7. Security and privacy, Security and privacy are top priorities for the Maileed team. Maileed employs a straightforward yet robust security strategy: all access to external resources is managed through Maileed MatchGate. This non-LLM routing model controls data routing and access based solely on verifiable system-level criteria, such as the sender’s email address or pre-defined access rules, ensuring secure, fact-based access.
+
+User Feedback:
+
+Rating: Rate Maileed's performance on handling emails.
+Editing: Adjust Maileed's responses to teach it your preferences.
+Commanding: Provide direct instructions for specific emails.
+Contact Feedback:
+
+Response Analysis: Evaluates replies from your contacts to assess effectiveness.
+In-Email Feedback Button: Recipients can rate responses via an embedded feedback option.
+7. Multi-Agent Capabilities
+Maileed can interact with other AI agents to manage complex tasks that go beyond email management, such as scheduling meetings or coordinating project updates.
+
+8. Maileed Mind and Self-Refinement
+At its core, Maileed Mind is the reasoning engine that continuously refines strategies, policies, and conditions through a self-improvement process called "Naptime," enhancing efficiency and alignment with your evolving needs.
+
+9. User-Friendly Dashboard and Chatbot
+GUI Dashboard: Offers tools like importance labeling, email summarization, key phrase highlighting, and quick notifications to streamline email management.
+Chatbot Interface: Provides real-time updates and allows you to manage emails conversationally, including approval requests and task updates.
+10. Handling Incomplete Contexts
+When encountering emails with insufficient context, Maileed generates prompt questions to seek clarification from you before crafting a complete response.
+
+Maileed simplifies your email experience by intelligently managing your inbox, learning from your interactions, and continuously adapting to serve you better.
+
